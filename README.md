@@ -58,20 +58,24 @@ Ouvrir index.html dans un navigateur.
 
 <summary>assets </summary>             
     
-+img 
-     banner.jpg
-    left.jpg
-    img-right.jpg
+-img 
+    
+    -banner.jpg
+    
+    -left.jpg
+    
+    -img-right.jpg
 
    
 
-+font 
-    SourceSans3-VariableFont_wght.ttf
+-font 
+    
+    -SourceSans3-VariableFont_wght.ttf
 
  </details>
 
 ---
-> [!Notes]
+>:::i "Notes"
 >
 > La police Source Sans est chargée localement.
 >
