@@ -50,20 +50,32 @@ Ouvrir index.html dans un navigateur.
 
 
 ## Structure des fichiers
-.
-├── index.html
-├── style.css
-└── assets/
-    ├── img/
-    │   ├── banner.jpg
-    │   ├── img-left.jpg
-    │   └── img-right.jpg
-    └── font/
-        └── SourceSans3-VariableFont_wght.ttf
 
+ index.html
+ 
+ style.css
+ <details>
+
+<summary>assets </summary>             
+    
+<details>
+    <summary>img</summary>  
+ banner.jpg
+
+ left.jpg
+
+ img-right.jpg
+</details>
+   
+<details>
+    <summary>font</summary>  
+    
+SourceSans3-VariableFont_wght.ttf
+</details>
+ </details>
 ---
 
-## Notes
+## [!Notes]
 
 
 
