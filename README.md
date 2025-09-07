@@ -8,6 +8,17 @@ Landing page responsive avec sections de présentation, formulaire de contact et
 
 ---
 
+
+##  Aperçu
+### Capture d’écran
+Vue complète du site :  
+![Aperçu du projet](./screenshots/fullpage.png)
+
+
+---
+
+
+
 ## Contenu
 
 Navigation : menu simple avec liens (About, Products, Team, Contact).
