@@ -47,7 +47,7 @@ git clone <https://github.com/Jedobah/Jedobah.github.io.git>
 
 Ouvrir index.html dans un navigateur.
 
-
+---
 
 ## Structure des fichiers
 
@@ -58,27 +58,25 @@ Ouvrir index.html dans un navigateur.
 
 <summary>assets </summary>             
     
-<details>
-    <summary>img</summary>  
- banner.jpg
+    img 
+        banner.jpg
 
- left.jpg
+        left.jpg
 
- img-right.jpg
-</details>
+        img-right.jpg
+
    
-<details>
-    <summary>font</summary>  
+
+    font 
     
-SourceSans3-VariableFont_wght.ttf
-</details>
+        SourceSans3-VariableFont_wght.ttf
+
  </details>
+
 ---
 
 >[!Notes]
-
 >La police Source Sans est chargée localement.
-
 >Le projet est statique, aucune dépendance externe autre que Font Awesome.
 
 
