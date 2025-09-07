@@ -19,7 +19,7 @@ a:visited {
   text-decoration: none;
   color: black;
 }
-a, .btn  {
+a, .btn {
   -webkit-tap-highlight-color: transparent;
 }
 footer li {
@@ -477,6 +477,15 @@ nav ul li a:hover {
     padding: 8px 16px;
     font-size: 0.75rem;
   }
+  footer ul {
+    display: flex;
+   
+  }
+  footer li {
+    font-size: 1.2rem;
+    height: 30px;
+    width: 30px;
+  }
 }
 
 /* Ultra petits écrans (250px et moins) */
@@ -500,7 +509,13 @@ nav ul li a:hover {
     padding: 5px 10px;
     font-size: 0.7rem;
   }
+
+  footer ul {
+    display: flex;
+    padding-right: 50px;
+  }
   footer li  {
+ 
     font-size: 1.2rem;
     height: 30px;
     width: 30px;
