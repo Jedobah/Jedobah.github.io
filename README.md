@@ -74,11 +74,13 @@ Ouvrir index.html dans un navigateur.
  </details>
 
 ---
+> [!Notes]
 
->[!Notes]
->La police Source Sans est chargée localement.
->Le projet est statique, aucune dépendance externe autre que Font Awesome.
+> La police Source Sans est chargée localement.
 
+> Le projet est statique, aucune dépendance externe autre que Font Awesome.
+
+---
 
 ## Auteur
 
