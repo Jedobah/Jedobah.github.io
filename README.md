@@ -54,21 +54,27 @@ Ouvrir index.html dans un navigateur.
  index.html
  
  style.css
+
+screenshot
+
+README.md
+
  <details>
 
 <summary>assets </summary>             
     
-■  img  
-   
-   - banner.jpg  
-   
-   - left.jpg  
-   
-   - img-right.jpg  
 
-■ font  
+-  img  
+   
+   ° banner.jpg  
+   
+   ° left.jpg  
+   
+   ° img-right.jpg  
+
+- font  
   
-  - SourceSans3-VariableFont_wght.ttf  
+  ° SourceSans3-VariableFont_wght.ttf  
 
 </details>
 
