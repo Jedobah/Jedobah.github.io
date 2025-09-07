@@ -42,7 +42,7 @@ Typographie personnalisée via @font-face
 
 Cloner le dépôt :
 
-git clone <https://github.com/Jedobah/portfolio-projets.git>
+git clone <https://github.com/Jedobah/Jedobah.github.io.git>
 
 
 Ouvrir index.html dans un navigateur.
