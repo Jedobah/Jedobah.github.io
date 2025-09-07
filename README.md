@@ -75,13 +75,11 @@ SourceSans3-VariableFont_wght.ttf
  </details>
 ---
 
-## [!Notes]
+>[!Notes]
 
+>La police Source Sans est chargée localement.
 
-
-La police Source Sans est chargée localement.
-
-Le projet est statique, aucune dépendance externe autre que Font Awesome.
+>Le projet est statique, aucune dépendance externe autre que Font Awesome.
 
 
 ## Auteur
