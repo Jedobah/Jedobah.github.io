@@ -21,17 +21,17 @@ Vue complète du site :
 
 ## Contenu
 
-Navigation : menu simple avec liens (About, Products, Team, Contact).
+Navigation : menu simple avec fondu dans l'image du header contenant les liens (About, Products, Our Team, Contact).
 
-Header : titre, description et bouton d’appel à l’action.
+Header : titre, description, image-banner à droite et bouton d’appel à l’action.
 
 Sections principales :
 
-Section 1 : présentation avec image à gauche.
+Section 1 : présentation avec image à gauche .
 
 Section 2 : présentation avec image à droite.
 
-Contact : formulaire avec champs nom, email, message.
+Contact : formulaire avec champs nom, email, message et submit.
 
 Footer : icônes réseaux sociaux.
 
@@ -47,7 +47,7 @@ CSS3 (flexbox, grid, responsive design, media queries)
 
 Font Awesome (icônes sociales)
 
-Typographie personnalisée via @font-face
+Typographie personnalisée via @font-face tirée de Google Font.
 
 ## Installation
 
@@ -56,7 +56,7 @@ Cloner le dépôt :
 git clone <https://github.com/Jedobah/Jedobah.github.io.git>
 
 
-Ouvrir index.html dans un navigateur.
+
 
 ---
 
@@ -66,7 +66,7 @@ Ouvrir index.html dans un navigateur.
  
  style.css
 
-screenshot
+screenshots
 
 README.md
 
