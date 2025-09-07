@@ -58,19 +58,23 @@ Ouvrir index.html dans un navigateur.
 
 <summary>assets </summary>             
     
-◦ img  
-   ■ banner.jpg  
-   ■ left.jpg  
-   ■ img-right.jpg  
+■  img  
+   
+   - banner.jpg  
+   
+   - left.jpg  
+   
+   - img-right.jpg  
 
-◦ font  
+■ font  
+  
   - SourceSans3-VariableFont_wght.ttf  
 
 </details>
 
 ---
 
-> **💡 Note**  
+> **Note**  
 > La police Source Sans est chargée localement.  
 > Le projet est statique, aucune dépendance externe autre que Font Awesome.
 
